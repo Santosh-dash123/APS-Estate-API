@@ -1,0 +1,6 @@
+@APSEstate.API_HostAddress = http://localhost:5062
+
+GET {{APSEstate.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
